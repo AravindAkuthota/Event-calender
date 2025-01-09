@@ -84,11 +84,9 @@ A modern, intuitive event management system built with React and TypeScript. Thi
 - **Bundle Size**: Tree-shaking with Vite
 
 ### Deployment
-- **Platform**: Static hosting (Netlify/Vercel)
+- **Platform**: Static hosting (Netlify)
 - **Build Process**: Vite production build
 - **Asset Optimization**: 
   - Minified JavaScript
   - Optimized CSS
   - Compressed assets
-
-[Rest of the README remains unchanged...]
